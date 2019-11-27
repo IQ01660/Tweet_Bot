@@ -1,0 +1,15 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "Demo of npm",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikram Gabiyev",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
